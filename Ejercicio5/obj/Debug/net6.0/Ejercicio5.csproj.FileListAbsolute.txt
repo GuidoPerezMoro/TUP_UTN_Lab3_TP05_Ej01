@@ -1,0 +1,14 @@
+E:\Programacion\Laboratorio de computacion III\Proyectos Visual Studio\Ejercicio5\Ejercicio5\bin\Debug\net6.0\Ejercicio5.exe
+E:\Programacion\Laboratorio de computacion III\Proyectos Visual Studio\Ejercicio5\Ejercicio5\bin\Debug\net6.0\Ejercicio5.deps.json
+E:\Programacion\Laboratorio de computacion III\Proyectos Visual Studio\Ejercicio5\Ejercicio5\bin\Debug\net6.0\Ejercicio5.runtimeconfig.json
+E:\Programacion\Laboratorio de computacion III\Proyectos Visual Studio\Ejercicio5\Ejercicio5\bin\Debug\net6.0\Ejercicio5.dll
+E:\Programacion\Laboratorio de computacion III\Proyectos Visual Studio\Ejercicio5\Ejercicio5\bin\Debug\net6.0\Ejercicio5.pdb
+E:\Programacion\Laboratorio de computacion III\Proyectos Visual Studio\Ejercicio5\Ejercicio5\obj\Debug\net6.0\Ejercicio5.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacion\Laboratorio de computacion III\Proyectos Visual Studio\Ejercicio5\Ejercicio5\obj\Debug\net6.0\Ejercicio5.AssemblyInfoInputs.cache
+E:\Programacion\Laboratorio de computacion III\Proyectos Visual Studio\Ejercicio5\Ejercicio5\obj\Debug\net6.0\Ejercicio5.AssemblyInfo.cs
+E:\Programacion\Laboratorio de computacion III\Proyectos Visual Studio\Ejercicio5\Ejercicio5\obj\Debug\net6.0\Ejercicio5.csproj.CoreCompileInputs.cache
+E:\Programacion\Laboratorio de computacion III\Proyectos Visual Studio\Ejercicio5\Ejercicio5\obj\Debug\net6.0\Ejercicio5.dll
+E:\Programacion\Laboratorio de computacion III\Proyectos Visual Studio\Ejercicio5\Ejercicio5\obj\Debug\net6.0\refint\Ejercicio5.dll
+E:\Programacion\Laboratorio de computacion III\Proyectos Visual Studio\Ejercicio5\Ejercicio5\obj\Debug\net6.0\Ejercicio5.pdb
+E:\Programacion\Laboratorio de computacion III\Proyectos Visual Studio\Ejercicio5\Ejercicio5\obj\Debug\net6.0\Ejercicio5.genruntimeconfig.cache
+E:\Programacion\Laboratorio de computacion III\Proyectos Visual Studio\Ejercicio5\Ejercicio5\obj\Debug\net6.0\ref\Ejercicio5.dll
